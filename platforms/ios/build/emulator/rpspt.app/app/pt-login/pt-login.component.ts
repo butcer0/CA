@@ -42,7 +42,7 @@ export class LoginComponent implements OnInit {
         return this.btnLoginRef.nativeElement;
     }
 
-    public loginModel: ILoginModel = { username: 'alexziskind', password: DEMO_PASSWORD };
+    public loginModel: ILoginModel = { username: 'erikbutcher', password: DEMO_PASSWORD };
 
     constructor(private page: Page,
         private router: RouterExtensions,

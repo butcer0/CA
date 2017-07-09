@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/checkbox_checked.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/checkbox_checked.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon_elipses_black.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/icon_elipses_black.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/logo.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon_close_black.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/icon_close_black.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon_close_white.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/icon_close_white.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/checkbox_unchecked.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/checkbox_unchecked.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/background.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon_elipses_white.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/icon_elipses_white.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/icon_arrow_forward.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/icon_arrow_forward.png"
+    },
+    {
+        "merged": "/Users/Erik/Projects/rpspt/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xxxhdpi/rps_logo.png",
+        "source": "/Users/Erik/Projects/rpspt/platforms/android/src/main/res/drawable-xxxhdpi/rps_logo.png"
+    }
+]

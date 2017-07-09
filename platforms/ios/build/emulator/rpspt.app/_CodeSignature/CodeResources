@@ -86,7 +86,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		fy0DPhct1eMetrNe+y7JcfEpKXY=
+		MlHkLgHIxpDLiilALXsG28WGVeU=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		5iGBGiPJG5GxHMqBBdBXIHcfn8g=
+		n71dDztxCKBTTW6y4cjLNZme4+0=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		PQFTQKOwvtO9Ep5rNuQNivQORx0=
+		z0Oj0h4PZyZ4y53/DI9PaL5eBQY=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -222,25 +222,81 @@
 		</data>
 		<key>app/app.module.js</key>
 		<data>
-		9SegDZJCBcjs27GoFXOO48qJMP0=
+		RFP69lThfFHP3xgnVzTqm2rp/1Y=
 		</data>
 		<key>app/app.module.ts</key>
 		<data>
-		E3RnHMAzVggw4u9tjnwoooPjSTo=
+		gshfM1nTQXouPwx1wPYl2OzHRN4=
 		</data>
 		<key>app/app.routing.js</key>
 		<data>
-		3mWmohFuZrWyDeGHIDXfmpDrrG0=
+		NEEa3jYNgYuMKXj/tAZRJqh4sj0=
 		</data>
 		<key>app/app.routing.ts</key>
 		<data>
-		PshbAzxfAWBopVRan0tRkujtGeA=
+		9NeNAHjbNiJbCjucHiV5ap4/TFs=
+		</data>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.component.html</key>
+		<data>
+		OYtn4owhgcKEQLw+TYbkgYe3yTE=
+		</data>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.component.js</key>
+		<data>
+		aBCbF2F82tx0z1vthJofvqR2Lrg=
+		</data>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.component.ts</key>
+		<data>
+		djmGQHbnl9QgHy6wPqAKksmtC90=
+		</data>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.module.js</key>
+		<data>
+		AXFR6o7UOZFkl2jgOzAzqOF6Yzs=
+		</data>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.module.ts</key>
+		<data>
+		xdxFBSnxYmN8s6+u/tw5LwOiOw0=
+		</data>
+		<key>app/ca-wizard/ca-wizard.component.css</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>app/ca-wizard/ca-wizard.component.html</key>
+		<data>
+		lVbjeEqp1jcNq3rjzgepD4ygfJc=
+		</data>
+		<key>app/ca-wizard/ca-wizard.component.js</key>
+		<data>
+		mcKy57yTEOdIddG+aKv7zeFWaS8=
+		</data>
+		<key>app/ca-wizard/ca-wizard.component.ts</key>
+		<data>
+		ScmggxpsYdBxrFJRF81qB/KU5v0=
+		</data>
+		<key>app/ca-wizard/ca-wizard.module.js</key>
+		<data>
+		k+65eOjV3MUIIYC7cFBJnER/XXM=
+		</data>
+		<key>app/ca-wizard/ca-wizard.module.ts</key>
+		<data>
+		ThP71AkI0Lno4uHId66xHvaYSec=
+		</data>
+		<key>app/ca-wizard/ca-wizard.routing.js</key>
+		<data>
+		m1InxOSEledTXm3OyMOk01DW7Sk=
+		</data>
+		<key>app/ca-wizard/ca-wizard.routing.ts</key>
+		<data>
+		EtV+UoQpozjYu2f8vv+3faT3hgk=
 		</data>
 		<key>app/images/avatars/base64/base64.txt</key>
 		<data>
 		T+hybXXBzhhBNlaHaABraAUi0uI=
 		</data>
 		<key>app/images/avatars/base64/me.txt</key>
+		<data>
+		p+2o/+cQDAOxLZnGDn/fbA6DJIM=
+		</data>
+		<key>app/images/avatars/base64/me_backup.txt</key>
 		<data>
 		q8gbZ9EFAsrkAl9SdBy8iej3gyA=
 		</data>
@@ -506,11 +562,11 @@
 		</data>
 		<key>app/pt-backlog/shared/item-type-picker-modal.component.js</key>
 		<data>
-		Xc5bhIFUZdR6sIPL9iwiAi+GMbI=
+		zcERHZA5Sal6QJ/IdO7hayIH4tA=
 		</data>
 		<key>app/pt-backlog/shared/item-type-picker-modal.component.ts</key>
 		<data>
-		k2KdfcWDnFKvfYKm4CgWjoWYrm4=
+		eOEofDVf1MA8RhzXs+w/X5Suf+4=
 		</data>
 		<key>app/pt-backlog/shared/user-picker-modal.component.html</key>
 		<data>
@@ -542,11 +598,11 @@
 		</data>
 		<key>app/pt-login/pt-login.component.js</key>
 		<data>
-		u6csXJyaRvgyj2jerrjrxyVvINw=
+		+CRBJYpbX7YqC2UqEgh85CIiGRM=
 		</data>
 		<key>app/pt-login/pt-login.component.ts</key>
 		<data>
-		RBSS4a83e6t+6+3jz1vRJX8UhUA=
+		m6dYXuWgXVKny+Y84kf+b77hxnw=
 		</data>
 		<key>app/pt-login/pt-login.module.js</key>
 		<data>
@@ -566,35 +622,35 @@
 		</data>
 		<key>app/services/auth.service.js</key>
 		<data>
-		vTTh2LuTPo2328yRn1T7MWXlFg4=
+		yp4QAyBbnc/bsPlfkNdmTJEQLsE=
 		</data>
 		<key>app/services/auth.service.ts</key>
 		<data>
-		WXoeQez/eVU6FVcfoxCvbL6xcUA=
+		KMTuaO9W3SU1KBmZBnpxLLbtmBI=
 		</data>
 		<key>app/services/backlog.service.js</key>
 		<data>
-		AaG8eA5kSvT7Cnvsk4r2ndFeqG8=
+		mutMWUiQ3Tb3PCy3dcBd0JFpDL4=
 		</data>
 		<key>app/services/backlog.service.ts</key>
 		<data>
-		0/bLdCP0wPXnztXI6B8A3YdjDr4=
+		UskkR2hguhTqANgBAvB5gUAp4yE=
 		</data>
 		<key>app/services/index.js</key>
 		<data>
-		hwmdz/iRDuPxma+yXwMpENXGROk=
+		k695P0nsckFUL+xjQx44ccNBdvI=
 		</data>
 		<key>app/services/index.ts</key>
 		<data>
-		FMZbRwuDTG/i9M+ci0HkTWReyx4=
+		cH26IhQ5SL3EzUEg3AK5/UJxzho=
 		</data>
 		<key>app/services/mock-data.service.js</key>
 		<data>
-		jdKSH9BhMCKqM/bv0lo2KI6ljLI=
+		48HLUwEtPs70DGkQKsV8BZgw/cQ=
 		</data>
 		<key>app/services/mock-data.service.ts</key>
 		<data>
-		cd/RFNnroI0+PgCrdPRAkg66118=
+		NX2A9RdGES+sNCGu28m5OzUTAWo=
 		</data>
 		<key>app/services/user.service.js</key>
 		<data>
@@ -603,6 +659,110 @@
 		<key>app/services/user.service.ts</key>
 		<data>
 		+ttqZkTd9bAQGNUmhxzcLj/fXsY=
+		</data>
+		<key>app/services/wizard.service.js</key>
+		<data>
+		NPiF360vQU9xjGLO1G3qQLkTTpw=
+		</data>
+		<key>app/services/wizard.service.ts</key>
+		<data>
+		lM34L7ms7ial00Nn4o1PiLKsg9I=
+		</data>
+		<key>app/shared/Interfaces/GlobalEnums.js</key>
+		<data>
+		edGhmCaGp689JFpdGD2fs6aWwOs=
+		</data>
+		<key>app/shared/Interfaces/GlobalEnums.ts</key>
+		<data>
+		OBNdoAyEKkm0InqBA3PPUAfc7l0=
+		</data>
+		<key>app/shared/Interfaces/IModifier.js</key>
+		<data>
+		To7TWe4AErA88mjNaaTkNZE9RJc=
+		</data>
+		<key>app/shared/Interfaces/IModifier.ts</key>
+		<data>
+		PwbfM5sB0eGEmHDFNzm25LmKgL8=
+		</data>
+		<key>app/shared/Interfaces/IQAnswer.js</key>
+		<data>
+		mwgyH3QmcQs5tFCGidXsvL4pfkE=
+		</data>
+		<key>app/shared/Interfaces/IQAnswer.ts</key>
+		<data>
+		5YMUcLoDqJr3rQK7zSiR4i9sbyY=
+		</data>
+		<key>app/shared/Interfaces/IQAnswers.js</key>
+		<data>
+		9vtjfrjuJNizMw5HFkDJgop5ngo=
+		</data>
+		<key>app/shared/Interfaces/IQCard.js</key>
+		<data>
+		4upcHj0NoGUssuOfaIfnZEOaUlc=
+		</data>
+		<key>app/shared/Interfaces/IQCard.ts</key>
+		<data>
+		u7mh87R+Ta7V2mugDYBemHKQ25g=
+		</data>
+		<key>app/shared/Interfaces/IQCard_Answers.js</key>
+		<data>
+		8GpGrjoPu738XhYXfvqgokulYEE=
+		</data>
+		<key>app/shared/Interfaces/IRiskAnalysis.js</key>
+		<data>
+		ECr5s30yNx/CStPjxt/7UxyYgsk=
+		</data>
+		<key>app/shared/Interfaces/IRiskProfile.js</key>
+		<data>
+		dzcpgLdoBcQG0m2uH/lP9frXDPQ=
+		</data>
+		<key>app/shared/Interfaces/IRiskProfile_Answer.js</key>
+		<data>
+		elnel8kq19jLKyad4R2HUvCBDWQ=
+		</data>
+		<key>app/shared/Interfaces/IRiskProfile_Response.js</key>
+		<data>
+		ugEM5U8+z3jziPBV400EB6MmCh4=
+		</data>
+		<key>app/shared/Interfaces/IRiskProfile_Response.ts</key>
+		<data>
+		huUXGajdjd2lWj+sbPuXRLNK6dk=
+		</data>
+		<key>app/shared/Interfaces/index.js</key>
+		<data>
+		RWfMXJstUuc4mY+sX7KgDRW8Myc=
+		</data>
+		<key>app/shared/Interfaces/index.ts</key>
+		<data>
+		QM71rqIEI+8NRHtsjg+rqJknJxA=
+		</data>
+		<key>app/shared/Models/QAnswer.js</key>
+		<data>
+		QzqDnEYjlZYXpif8Tz6MWtyInJs=
+		</data>
+		<key>app/shared/Models/QAnswer.ts</key>
+		<data>
+		yksn2Rt3ml7CbgxJ7x5vFo/QVAM=
+		</data>
+		<key>app/shared/Models/QAnswers.js</key>
+		<data>
+		lQYaoIpydEtkhtM+wfy1ad5Uubc=
+		</data>
+		<key>app/shared/Models/QCard.js</key>
+		<data>
+		h+i4GkMuvAl7rPoDNuzQCYK1uEM=
+		</data>
+		<key>app/shared/Models/QCard.ts</key>
+		<data>
+		fKOWg0IjAkS2n5v9/RvsN0SoBOM=
+		</data>
+		<key>app/shared/Models/RiskProfile_Response.js</key>
+		<data>
+		75XyFn9D9yxfaETPm0jlfyrLzYU=
+		</data>
+		<key>app/shared/Models/RiskProfile_Response.ts</key>
+		<data>
+		QQjWHXjT4Bl07QcDKUXrh8ca35Q=
 		</data>
 		<key>app/shared/animations.js</key>
 		<data>
@@ -614,11 +774,19 @@
 		</data>
 		<key>app/shared/constants.js</key>
 		<data>
-		B7QiIJwXf70f6Sd6v5tTprnBZqQ=
+		2EjAhTyUTGXfe325C95lefap8bw=
 		</data>
 		<key>app/shared/constants.ts</key>
 		<data>
-		tBOUOgrP9j2JDLAxuyCCxka+xS0=
+		qnJCsiZ5pcpqD9QaqYXC4fjIjAw=
+		</data>
+		<key>app/shared/example-data.js</key>
+		<data>
+		WT5Cff5jgVd6uI3SEhC9nZLYHX4=
+		</data>
+		<key>app/shared/example-data.ts</key>
+		<data>
+		vyjbDvp8vhHleo2l9NkAyPreM/w=
 		</data>
 		<key>app/shared/filter-state.model.js</key>
 		<data>
@@ -26824,6 +26992,10 @@
 		<data>
 		2NAbjYi/UOG4cv0h6Ga3aIGz3QA=
 		</data>
+		<key>app/typings/typings.d.ts</key>
+		<data>
+		8TduknJ3s4fwsaqpV1p1rYSyZ10=
+		</data>
 		<key>build.xcconfig</key>
 		<data>
 		RNL/GAS4TOxSHBwCBUOpAd1PTlk=
@@ -27160,11 +27332,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fy0DPhct1eMetrNe+y7JcfEpKXY=
+			MlHkLgHIxpDLiilALXsG28WGVeU=
 			</data>
 			<key>hash2</key>
 			<data>
-			dO2vvUn88QR1xhyZGrD88XT2/bBXLXbAT1xOaLbh9sc=
+			pY01/qWa0hQTnBTORPaeG5EKFwTwBGQfWc73GXUvBRo=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -27446,11 +27618,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5iGBGiPJG5GxHMqBBdBXIHcfn8g=
+			n71dDztxCKBTTW6y4cjLNZme4+0=
 			</data>
 			<key>hash2</key>
 			<data>
-			VCQPAjRgwCex6RF6hsybCij5T0Gxr/6TCvMHSOlSleA=
+			TkHNZQe1jymRUv1ILHzPsYDQyGw8qgoOyPtdlosZRhE=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -27468,11 +27640,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PQFTQKOwvtO9Ep5rNuQNivQORx0=
+			z0Oj0h4PZyZ4y53/DI9PaL5eBQY=
 			</data>
 			<key>hash2</key>
 			<data>
-			CRUey+Nuc2iV96lsyXbr4Agtv4IDJGVRej2SdpfR9+s=
+			D700hHHxp7AeX55bEXZU6bzLEXnopXIj1rBMNAZ5/RE=
 			</data>
 		</dict>
 		<key>app/app.component.js</key>
@@ -27512,44 +27684,187 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9SegDZJCBcjs27GoFXOO48qJMP0=
+			RFP69lThfFHP3xgnVzTqm2rp/1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			7XmC3FLdxljR5I8CGqL9Lg6pIdEdAg62YLeC/7lQrTU=
+			suuh/3Dj3zLbNnoKCZGpoFkUQZNsm6SeiKKtvFWSarY=
 			</data>
 		</dict>
 		<key>app/app.module.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E3RnHMAzVggw4u9tjnwoooPjSTo=
+			gshfM1nTQXouPwx1wPYl2OzHRN4=
 			</data>
 			<key>hash2</key>
 			<data>
-			qiWS1HSyw6wovfB68j72BP3XWCz+vWSzjSLY59Wk2Rg=
+			w32YKdvvzzHmvGPjq2j3iduuGT0ERdTC2FN/w7Vdj6c=
 			</data>
 		</dict>
 		<key>app/app.routing.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3mWmohFuZrWyDeGHIDXfmpDrrG0=
+			NEEa3jYNgYuMKXj/tAZRJqh4sj0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ia70C5voiFRCC0H8XmUoNGbF1s4cXmT68RdCL4TRK+k=
+			mzkDv5m/5s96leEIRXDkHlFnT5dFGbu4Dr+pfh7g0x0=
 			</data>
 		</dict>
 		<key>app/app.routing.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PshbAzxfAWBopVRan0tRkujtGeA=
+			9NeNAHjbNiJbCjucHiV5ap4/TFs=
 			</data>
 			<key>hash2</key>
 			<data>
-			O8qHWMqs67u8Hn2kGSLP8j0j25F9qp7s8zqGDJfItq0=
+			UyCBhq1WItJ7e43CDNlF+dlYw1jHtTLrOAnaeGSB3UQ=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OYtn4owhgcKEQLw+TYbkgYe3yTE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NjWvrIRLBnOgauXVHXfxJNlcXToWIbkF7+k5RhuEU4w=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aBCbF2F82tx0z1vthJofvqR2Lrg=
+			</data>
+			<key>hash2</key>
+			<data>
+			o9BIkCaW/IveBY/yopnTlOOo4uPgP77gyC2AR92KG5Q=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			djmGQHbnl9QgHy6wPqAKksmtC90=
+			</data>
+			<key>hash2</key>
+			<data>
+			gknhmom1iDuKdZfMGF+LI0jee1TsaD57hCM/TW/DsP0=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.module.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AXFR6o7UOZFkl2jgOzAzqOF6Yzs=
+			</data>
+			<key>hash2</key>
+			<data>
+			HbpDD9f9dw4s9oweGaeiQjvPH5P7wC9BbtnSC+Cw+Bo=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard-qcards/ca-wizard-qcards.module.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xdxFBSnxYmN8s6+u/tw5LwOiOw0=
+			</data>
+			<key>hash2</key>
+			<data>
+			XM9Qlc7Hmt1JZvwaTnyIN32T5dK2T4Ne4ASFakS0JyM=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.component.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.component.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lVbjeEqp1jcNq3rjzgepD4ygfJc=
+			</data>
+			<key>hash2</key>
+			<data>
+			r1+9xU1minaqXls9lXaTq+jWLoGbAmMWzvIZLtWHDUI=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.component.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mcKy57yTEOdIddG+aKv7zeFWaS8=
+			</data>
+			<key>hash2</key>
+			<data>
+			V3r6VvCG/01IzlohCGEYN/UpZc7hL9P48oDY560rECE=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.component.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ScmggxpsYdBxrFJRF81qB/KU5v0=
+			</data>
+			<key>hash2</key>
+			<data>
+			ryjUUkS2oYRjzUG7qMNsflhhUNHTQflVC4Bj+NuVoLg=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.module.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k+65eOjV3MUIIYC7cFBJnER/XXM=
+			</data>
+			<key>hash2</key>
+			<data>
+			VoLXQ/2+HU2Re6h8D9Fq/ABNELcjQgiM7heJFC2b/QE=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.module.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ThP71AkI0Lno4uHId66xHvaYSec=
+			</data>
+			<key>hash2</key>
+			<data>
+			rQ11GkWbbz+eBqEVApwFYszFmUfXsaNkllkIcdlYokg=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.routing.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m1InxOSEledTXm3OyMOk01DW7Sk=
+			</data>
+			<key>hash2</key>
+			<data>
+			L735FxzTlAbnmJARVW3wXs9eq3sAb/qs+pbzbZPW2KY=
+			</data>
+		</dict>
+		<key>app/ca-wizard/ca-wizard.routing.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EtV+UoQpozjYu2f8vv+3faT3hgk=
+			</data>
+			<key>hash2</key>
+			<data>
+			/e0Tb5qfCNJaAPmRyiZKwuezBs2GmMYdA+/iMYVxq0w=
 			</data>
 		</dict>
 		<key>app/images/avatars/base64/base64.txt</key>
@@ -27564,6 +27879,17 @@
 			</data>
 		</dict>
 		<key>app/images/avatars/base64/me.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p+2o/+cQDAOxLZnGDn/fbA6DJIM=
+			</data>
+			<key>hash2</key>
+			<data>
+			XWJju374tk1mGgYtl31+UoJAcsjoB1v3B9ePvxyiKmg=
+			</data>
+		</dict>
+		<key>app/images/avatars/base64/me_backup.txt</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -28293,22 +28619,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xc5bhIFUZdR6sIPL9iwiAi+GMbI=
+			zcERHZA5Sal6QJ/IdO7hayIH4tA=
 			</data>
 			<key>hash2</key>
 			<data>
-			7wSw7ocFxG6R3pcophXL2saoEaduLFz71mOsJDT7t2Y=
+			3zmR4rI2z7UwXLo34G/Ptbjpi4honQvBELJnCzmVpP0=
 			</data>
 		</dict>
 		<key>app/pt-backlog/shared/item-type-picker-modal.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k2KdfcWDnFKvfYKm4CgWjoWYrm4=
+			eOEofDVf1MA8RhzXs+w/X5Suf+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			QOmB9gklGdXrXTjcVIiGCEr2EqvwfgjepyW2MZMhIwg=
+			IgG+QtpAXWIsNXIYkOQqh6FZuQ/jMpXN2QsqoVXEQPY=
 			</data>
 		</dict>
 		<key>app/pt-backlog/shared/user-picker-modal.component.html</key>
@@ -28392,22 +28718,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			u6csXJyaRvgyj2jerrjrxyVvINw=
+			+CRBJYpbX7YqC2UqEgh85CIiGRM=
 			</data>
 			<key>hash2</key>
 			<data>
-			gPUf94pfs1cyqogW8/987a/P60LK/1abjuJlw4EquLE=
+			XvNyl1bZx9vs+cu0Wj41v8TLw5dsecewp2cgnCeVtZ8=
 			</data>
 		</dict>
 		<key>app/pt-login/pt-login.component.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RBSS4a83e6t+6+3jz1vRJX8UhUA=
+			m6dYXuWgXVKny+Y84kf+b77hxnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			baVAc+BV/tC++Ca40PpUWrd51o9OVas5dFSWksmz9g8=
+			7B5/iz7ajsPNoVdnFMXFfgIweCelK02prZAdYdonJf0=
 			</data>
 		</dict>
 		<key>app/pt-login/pt-login.module.js</key>
@@ -28458,88 +28784,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vTTh2LuTPo2328yRn1T7MWXlFg4=
+			yp4QAyBbnc/bsPlfkNdmTJEQLsE=
 			</data>
 			<key>hash2</key>
 			<data>
-			tpfFcdatby8QN7j9nfdA2qVfg+fEhzxWo/8RrI5DeTo=
+			C058hUmZ7QMp9jPXQl5wyfQ5EsKAUVDzFR+gx6m/OoE=
 			</data>
 		</dict>
 		<key>app/services/auth.service.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WXoeQez/eVU6FVcfoxCvbL6xcUA=
+			KMTuaO9W3SU1KBmZBnpxLLbtmBI=
 			</data>
 			<key>hash2</key>
 			<data>
-			VVG/aqqASxFM4Emjp+OAfaO2knl8gZhClAKB9kspaUs=
+			xACXB6K/j1jUbPXgawiaiFD/FOuYfpYs6h/tA6GHkcw=
 			</data>
 		</dict>
 		<key>app/services/backlog.service.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AaG8eA5kSvT7Cnvsk4r2ndFeqG8=
+			mutMWUiQ3Tb3PCy3dcBd0JFpDL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			pE7fz+w1hdyB8M+ERsG4XgBmwPPXi9lJoqv7cG+ufyg=
+			CqboFs2a3NjkkKusgFdeml6uqZy8Ba/euQMMehzzS8c=
 			</data>
 		</dict>
 		<key>app/services/backlog.service.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0/bLdCP0wPXnztXI6B8A3YdjDr4=
+			UskkR2hguhTqANgBAvB5gUAp4yE=
 			</data>
 			<key>hash2</key>
 			<data>
-			bo1h5uIPTAmiXm24nG6giWrpnHF/xyT3eYflW1vlIX0=
+			7fxI9qI4XzvMxoXQ8paV40s8DoI4sXfgWE8B2Ha+O1I=
 			</data>
 		</dict>
 		<key>app/services/index.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hwmdz/iRDuPxma+yXwMpENXGROk=
+			k695P0nsckFUL+xjQx44ccNBdvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			IhwO612bpbnTsPATYXIa9z5hR79NLUGAoKPpAFQDWM4=
+			Uwj1K464Fb/zllff5KrROjplZ75aA/L54E7qHz1Etu4=
 			</data>
 		</dict>
 		<key>app/services/index.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FMZbRwuDTG/i9M+ci0HkTWReyx4=
+			cH26IhQ5SL3EzUEg3AK5/UJxzho=
 			</data>
 			<key>hash2</key>
 			<data>
-			RND4fTJx3hoRoRu/MF9oWoNcIbqg0PRGJLMRn1mUw1M=
+			JpfJGM9Ajr8zGMHB1q9WCtYAYCpj3vKW7RByXO4q5FQ=
 			</data>
 		</dict>
 		<key>app/services/mock-data.service.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jdKSH9BhMCKqM/bv0lo2KI6ljLI=
+			48HLUwEtPs70DGkQKsV8BZgw/cQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xg7l1fd/mXqGPil0o4CT8hlZgub4lM/Riik05uj4oH8=
+			gYXrxPCf3MUalQ5PPmuQLIDEBx7ZsCCZ2jEvahlOV0o=
 			</data>
 		</dict>
 		<key>app/services/mock-data.service.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cd/RFNnroI0+PgCrdPRAkg66118=
+			NX2A9RdGES+sNCGu28m5OzUTAWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZSBdBwNvFmB5bJ7jp95mT70g70wRMx6+c9JZOqafei4=
+			cKKGeN0z29ProNQpuNIf5p6d5nj3I0s5AwbO+42E/gI=
 			</data>
 		</dict>
 		<key>app/services/user.service.js</key>
@@ -28562,6 +28888,292 @@
 			<key>hash2</key>
 			<data>
 			cjhoz4IKlcmlbmIzw/XLMXqd/Xb8884+Cefj9yi/5bY=
+			</data>
+		</dict>
+		<key>app/services/wizard.service.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NPiF360vQU9xjGLO1G3qQLkTTpw=
+			</data>
+			<key>hash2</key>
+			<data>
+			GT47riv24ey87fVA48jHPN+mU0QzHDdilf9P7QIiPkQ=
+			</data>
+		</dict>
+		<key>app/services/wizard.service.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lM34L7ms7ial00Nn4o1PiLKsg9I=
+			</data>
+			<key>hash2</key>
+			<data>
+			iBXhffaCRBTb6NpP8QPvhH773RQGuwoeicwgf+OhjN8=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/GlobalEnums.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			edGhmCaGp689JFpdGD2fs6aWwOs=
+			</data>
+			<key>hash2</key>
+			<data>
+			0CHdLguG189PAH4TqB7zD72X8V2cHYRlAPl7GkFq86k=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/GlobalEnums.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OBNdoAyEKkm0InqBA3PPUAfc7l0=
+			</data>
+			<key>hash2</key>
+			<data>
+			hUNr7QW+QJR1wdOZAEXj9e81qWqLRAZpfoK8V9RRLMo=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IModifier.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			To7TWe4AErA88mjNaaTkNZE9RJc=
+			</data>
+			<key>hash2</key>
+			<data>
+			e2LKT41/z4G9EGO1h+FhYlS0qCRaJsLKCl6QRKB7z7w=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IModifier.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PwbfM5sB0eGEmHDFNzm25LmKgL8=
+			</data>
+			<key>hash2</key>
+			<data>
+			xekThLtuN638sTzgSZbhk5fr9wREBM/OsB8K+B4GyYk=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IQAnswer.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mwgyH3QmcQs5tFCGidXsvL4pfkE=
+			</data>
+			<key>hash2</key>
+			<data>
+			ecTbpKKab8b5+keXMIM9KQOq/Eh7gecKAFWGIpQGtZQ=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IQAnswer.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5YMUcLoDqJr3rQK7zSiR4i9sbyY=
+			</data>
+			<key>hash2</key>
+			<data>
+			QVX8fDVWGvdsVJkfLjj8H7EcZbN/I7vUfdTHM7dycRw=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IQAnswers.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9vtjfrjuJNizMw5HFkDJgop5ngo=
+			</data>
+			<key>hash2</key>
+			<data>
+			4od4EOizqfZtfhQKQHJJSlr8gbBEszBWkzkJkZ6WnQs=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IQCard.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4upcHj0NoGUssuOfaIfnZEOaUlc=
+			</data>
+			<key>hash2</key>
+			<data>
+			fPg4GF8Nar8dpuqzJNO9Pr7cI+uRIWZCWlZAVYgZ/7U=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IQCard.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u7mh87R+Ta7V2mugDYBemHKQ25g=
+			</data>
+			<key>hash2</key>
+			<data>
+			mOKg/tVYZUZYF/KwPgIlgnb3K/2rB+dD8Un3WAyGu4M=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IQCard_Answers.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8GpGrjoPu738XhYXfvqgokulYEE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NqTrJXuVqDH415mSfQCHAjAwgY9trnRblKKX3U6839E=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IRiskAnalysis.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ECr5s30yNx/CStPjxt/7UxyYgsk=
+			</data>
+			<key>hash2</key>
+			<data>
+			c01nERBKbNqZgvt6ValCx2vn/u28cupUGjHar6wdpoY=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IRiskProfile.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dzcpgLdoBcQG0m2uH/lP9frXDPQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			crDtIk+/LrB/OFvLPvkas6YUp0Hkg1CClp47Hj5Erpw=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IRiskProfile_Answer.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			elnel8kq19jLKyad4R2HUvCBDWQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			3/wzh9pNRwxHWsyiAiP8AQK/n4mEKrWPW/d1JbrcyOA=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IRiskProfile_Response.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ugEM5U8+z3jziPBV400EB6MmCh4=
+			</data>
+			<key>hash2</key>
+			<data>
+			4aAGQ/cQ83mehlI+R0AxMaZOyh7aA5icPYPDFD83yow=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/IRiskProfile_Response.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			huUXGajdjd2lWj+sbPuXRLNK6dk=
+			</data>
+			<key>hash2</key>
+			<data>
+			vcfSxkFuCvhZL3wpZwi3MVO4YEDL+UNorz9xM6URXNo=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RWfMXJstUuc4mY+sX7KgDRW8Myc=
+			</data>
+			<key>hash2</key>
+			<data>
+			d436wDsTHfH4hJa5gwn/Xj2O31baxZNVAZ10FOpOqT0=
+			</data>
+		</dict>
+		<key>app/shared/Interfaces/index.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QM71rqIEI+8NRHtsjg+rqJknJxA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ix2AW/2cJvR25JhPOAFu/KM5StLcogQJwC952i/7Tzg=
+			</data>
+		</dict>
+		<key>app/shared/Models/QAnswer.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QzqDnEYjlZYXpif8Tz6MWtyInJs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q5E5CmNpMGCJzBiJ/hS1RN3eYEKD4sbBQeHJmKqbnPQ=
+			</data>
+		</dict>
+		<key>app/shared/Models/QAnswer.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yksn2Rt3ml7CbgxJ7x5vFo/QVAM=
+			</data>
+			<key>hash2</key>
+			<data>
+			mLfpoYCkjpncuBx5lwSNAt2qwvIPPuNh6X45IraFeEs=
+			</data>
+		</dict>
+		<key>app/shared/Models/QAnswers.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lQYaoIpydEtkhtM+wfy1ad5Uubc=
+			</data>
+			<key>hash2</key>
+			<data>
+			weBjmlVmHdj+Xt3Ge/NPQDG92iz4oMElQ48M0AMBaSA=
+			</data>
+		</dict>
+		<key>app/shared/Models/QCard.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h+i4GkMuvAl7rPoDNuzQCYK1uEM=
+			</data>
+			<key>hash2</key>
+			<data>
+			EwQWswAGI+EdPj8SP87nyMJcMgd0JJ8NKn30YyQDI1M=
+			</data>
+		</dict>
+		<key>app/shared/Models/QCard.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fKOWg0IjAkS2n5v9/RvsN0SoBOM=
+			</data>
+			<key>hash2</key>
+			<data>
+			QV/ZFTXJbJaBXUu2XJdHe3t12wg0f5RBhfFalH6ETLg=
+			</data>
+		</dict>
+		<key>app/shared/Models/RiskProfile_Response.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			75XyFn9D9yxfaETPm0jlfyrLzYU=
+			</data>
+			<key>hash2</key>
+			<data>
+			1IsYVlfUKsMNg2UaQMqXs/oH7PWyluKSwzp12faZPoM=
+			</data>
+		</dict>
+		<key>app/shared/Models/RiskProfile_Response.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QQjWHXjT4Bl07QcDKUXrh8ca35Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			LdXEZUAt9c1yuIUAIDObhP0JKueRxX1Ijs4YqGl29t4=
 			</data>
 		</dict>
 		<key>app/shared/animations.js</key>
@@ -28590,22 +29202,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B7QiIJwXf70f6Sd6v5tTprnBZqQ=
+			2EjAhTyUTGXfe325C95lefap8bw=
 			</data>
 			<key>hash2</key>
 			<data>
-			IAdX0ll9VGzp57pUwo9pWXfA7Xb/h6ijaWylztsYPDE=
+			qQOUDu1FplafVAJ1c2NEB2AHo26YjU4y59+1QyS3hKA=
 			</data>
 		</dict>
 		<key>app/shared/constants.ts</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tBOUOgrP9j2JDLAxuyCCxka+xS0=
+			qnJCsiZ5pcpqD9QaqYXC4fjIjAw=
 			</data>
 			<key>hash2</key>
 			<data>
-			dTnKbS9pAA5oCWwMQwoZNvMx8avJEjYzz/T6YyfWRyI=
+			WVT2WdA2uoHxDURGvu+/oITIO8faHNk9DO49MjaBSFk=
+			</data>
+		</dict>
+		<key>app/shared/example-data.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WT5Cff5jgVd6uI3SEhC9nZLYHX4=
+			</data>
+			<key>hash2</key>
+			<data>
+			fp/V/yPkmPXq/mSSIuPrNcJd/usQ6S5LIl9D3MG+aiA=
+			</data>
+		</dict>
+		<key>app/shared/example-data.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vyjbDvp8vhHleo2l9NkAyPreM/w=
+			</data>
+			<key>hash2</key>
+			<data>
+			uSXAUPz+h4snLBUeNsUFhB/XjYAzA70yCRTcx8ktMVY=
 			</data>
 		</dict>
 		<key>app/shared/filter-state.model.js</key>
@@ -100667,6 +101301,17 @@
 			<key>hash2</key>
 			<data>
 			dH1eBrV+d2T6kiEGV/za+end0MRUJtaAC9CalbtUcb4=
+			</data>
+		</dict>
+		<key>app/typings/typings.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8TduknJ3s4fwsaqpV1p1rYSyZ10=
+			</data>
+			<key>hash2</key>
+			<data>
+			nuCIg+98mTsK1ji7Xc3B3tBoTlUmKORHWOBC5e/bNSs=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

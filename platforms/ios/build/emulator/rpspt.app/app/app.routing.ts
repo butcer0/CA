@@ -10,7 +10,8 @@ export const authProviders = [
 ];
 
 const routes: Routes = [
-    { path: '', redirectTo: '/pt-backlog', pathMatch: 'full' }
+    // { path: '', redirectTo: '/pt-backlog', pathMatch: 'full' }
+    { path: '', redirectTo: '/ca-wizard', pathMatch: 'full' }
 ];
 
 @NgModule({

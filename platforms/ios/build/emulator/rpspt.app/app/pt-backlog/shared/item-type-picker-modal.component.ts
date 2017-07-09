@@ -2,10 +2,13 @@
 import { Component, OnInit } from "@angular/core";
 
 //nativescript imports
-import { ModalDialogParams } from "nativescript-angular/directives/dialogs";
+import { Page } from 'ui/page';
+import { ModalDialogParams, ModalDialogOptions } from "nativescript-angular/directives/dialogs";
+import { ItemEventData, ListView } from 'ui/list-view';
 
 //app imports
 import { ItemTypeEnum } from '../../shared/static-data';
+
 
 @Component({
     moduleId: module.id,

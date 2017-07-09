@@ -1,5 +1,5 @@
 //angular imports
-import { Injectable, OnInit, NgZone } from '@angular/core';
+import { Injectable,  NgZone } from '@angular/core';
 import { Observable, Observer, BehaviorSubject } from "rxjs/Rx";
 
 //3rd party imports

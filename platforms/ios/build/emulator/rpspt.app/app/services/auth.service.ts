@@ -33,11 +33,11 @@ export class AuthenticationService {
                 setTimeout(() => {
                     observer.next(this.currentUser);
                     appSettingsModule.setString(APP_SETTINGS_CURRENT_USER, JSON.stringify(this.currentUser));
-                }, 3000);
+                }, 2000);
             } else {
                 setTimeout(() => {
                     observer.next(null);
-                }, 3000);
+                }, 2000);
             }
 
         });

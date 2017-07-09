@@ -1,0 +1,8 @@
+"use strict";
+var QAnswer = (function () {
+    function QAnswer() {
+    }
+    return QAnswer;
+}());
+exports.QAnswer = QAnswer;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiUUFuc3dlci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIlFBbnN3ZXIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUVBO0lBQUE7SUFHQSxDQUFDO0lBQUQsY0FBQztBQUFELENBQUMsQUFIRCxJQUdDO0FBSFksMEJBQU8iLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBJUUFuc3dlciwgSU1vZGlmaWVyIH0gZnJvbSAnLi4vSW50ZXJmYWNlcyc7XG5cbmV4cG9ydCBjbGFzcyBRQW5zd2VyIGltcGxlbWVudHMgSVFBbnN3ZXIge1xuICAgIGFuc3dlcjogc3RyaW5nO1xuICAgIG1vZGlmaWVyOiBJTW9kaWZpZXI7XG59Il19

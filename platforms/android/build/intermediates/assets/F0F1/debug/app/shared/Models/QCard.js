@@ -1,0 +1,8 @@
+"use strict";
+var QCard = (function () {
+    function QCard() {
+    }
+    return QCard;
+}());
+exports.QCard = QCard;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiUUNhcmQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJRQ2FyZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBRUE7SUFBQTtJQUtBLENBQUM7SUFBRCxZQUFDO0FBQUQsQ0FBQyxBQUxELElBS0M7QUFMWSxzQkFBSyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IElRQ2FyZCwgSVFBbnN3ZXIgfSBmcm9tICcuLi9JbnRlcmZhY2VzJztcblxuZXhwb3J0IGNsYXNzIFFDYXJkIGltcGxlbWVudHMgSVFDYXJkIHtcbiAgICBpZDogc3RyaW5nO1xuICAgIHF1ZXN0aW9uOiBzdHJpbmc7XG4gICAgZGVzY3JpcHRpb246IHN0cmluZztcbiAgICBhbnN3ZXJzOiBJUUFuc3dlcltdO1xufSJdfQ==

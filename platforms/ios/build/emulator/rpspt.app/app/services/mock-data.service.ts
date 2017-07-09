@@ -97,7 +97,7 @@ export class MockDataService {
 
         let userMe: IUser = {
             id: faker.random.uuid(),
-            fullName: 'Alex Ziskind',
+            fullName: 'Erik Butcher',
             avatar: avatarMe
         };
         return userMe;
